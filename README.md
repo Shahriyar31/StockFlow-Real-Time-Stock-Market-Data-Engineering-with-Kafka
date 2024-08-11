@@ -1,0 +1,2 @@
+# StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka
+📊 StockFlow is a data engineering project for real-time stock market data. It uses Apache Kafka for streaming,  Python for processing, and  Jupyter Notebooks for analysis. Integrated with  AWS  services, StockFlow offers a scalable solution for high-velocity data, demonstrating modern data processing principles and technology integration.
