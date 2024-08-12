@@ -36,7 +36,7 @@
    - Processed data is stored in Amazon S3 buckets.
    - AWS Glue crawlers automatically catalog the data, making it queryable through Athena.
 
-4. ![Athena](https://d1.awsstatic.com/logos/aws/Athena.svg) **Data Analysis (Amazon Athena & Jupyter Notebooks)**:
+4. <img src="https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka/blob/main/Athena.svg" height="48"> **Data Analysis (Amazon Athena & Jupyter Notebooks)**:
    - Amazon Athena provides a serverless query service to analyze the data directly from S3 using SQL.
    - Jupyter Notebooks are used for further data exploration, visualization, and generating reports.
 
@@ -120,7 +120,7 @@ bin/kafka-console-consumer.sh --topic demo_testing --bootstrap-server 3.68.158.2
 
 - ![S3](https://img.icons8.com/color/48/000000/amazon-s3.png) **Amazon S3**: Store raw and processed data.
 - ![Glue](https://img.icons8.com/color/48/000000/glue.png) **AWS Glue**: Use crawlers for automated data cataloging.
-- ![Athena](https://d1.awsstatic.com/logos/aws/Athena.svg) **Amazon Athena**: Query data stored in S3 using SQL for quick insights.
+- <img src="https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka/blob/main/Athena.svg" height="48"> **Amazon Athena**: Query data stored in S3 using SQL for quick insights.
 
 ---
 
@@ -174,7 +174,7 @@ For any inquiries or support, please contact:
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="Amazon S3"/>
   <img src="https://img.icons8.com/color/48/000000/glue.png" alt="AWS Glue"/>
-  
+  <img src="https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka/blob/main/Athena.svg" height="48">
   <img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="Zookeeper" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
 </p>
