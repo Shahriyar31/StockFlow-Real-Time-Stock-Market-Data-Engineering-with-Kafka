@@ -24,7 +24,7 @@
 
 ## **Project Architecture**
 
-![Architecture Diagram](https://miro.medium.com/max/1400/1*5QInE2LeekRtbFLfFwYO8g.png)
+<img src="https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka/blob/main/Architecture.jpg">
 
 1. ![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg) **Data Ingestion (Kafka Producer)**:
    - A Python-based Kafka producer fetches real-time stock market data from external APIs and publishes it to Kafka topics.
