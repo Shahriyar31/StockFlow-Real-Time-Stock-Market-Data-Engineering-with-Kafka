@@ -17,7 +17,7 @@
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Data Producers & Consumers**: Custom **Python** scripts act as Kafka producers and consumers to process and manipulate real-time stock data.
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **Scalable Architecture**: Utilizes **AWS services** including **Amazon S3**, **Athena**, and **Glue** for scalable data storage, querying, and cataloging.
 - ![S3](https://img.icons8.com/color/48/000000/amazon-s3.png) **Data Storage & Management**: S3 buckets are used for storing raw and processed data, while AWS Glue crawlers automate data cataloging.
-- ![Athena](https://d1.awsstatic.com/logos/aws/Athena.svg) **Analytical Querying**: **Amazon Athena** is employed for SQL-based querying of large datasets, enabling quick insights and data retrieval.
+- <img src="https://github.com/Shahriyar31/StockFlow-Real-Time-Stock-Market-Data-Engineering-with-Kafka/blob/main/Athena.svg" height="48"> **Analytical Querying**: **Amazon Athena** is employed for SQL-based querying of large datasets, enabling quick insights and data retrieval.
 - ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg) **Visualization**: **Jupyter Notebooks** are used for exploratory data analysis and visualization, providing insights into stock market trends and patterns.
 
 ---
